@@ -29,6 +29,6 @@ x.[پریسا خاوری](https://github.com/parisakhavari93/PNU_3991_AR)
 
 xi.[محسن گودرزی](https://github.com/mohsengodarzi/PNU_3991_AR)
 
-xii.[محمد حییدری](https://github.com/MohammadHeydari22/PNU_3991_AR)
+xii.[محمد حیدری](https://github.com/MohammadHeydari22/PNU_3991_AR)
 
 ----------------------
