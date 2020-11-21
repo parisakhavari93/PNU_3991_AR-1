@@ -7,6 +7,7 @@
 - [certificat](https://github.com/qasem5252/certificat/blob/main/qasem.jpg)
 -----------------
 1. G-TLM
+
  i. [TLM02-45 قاسم فقری میاب](https://github.com/qasem5252/PNU_3991_AR) #سرگروه
  
 ii.[TLM03-06 رضا رضایی](https://github.com/rezarzai/PNU_3991_AR)
