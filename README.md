@@ -11,7 +11,7 @@
 - [ارزیابی رزومه و انگیزه نامه](qf_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
 ## بخش کارشناسی
-- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/qasem5252/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 -----------------
 1. G-L08 
