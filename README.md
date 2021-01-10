@@ -49,7 +49,7 @@
 
 ## دروس کارشناسی
 
-[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/mir-mohammad/PNU_3991_AR1/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01   نظريه زبانهاوماشين ها ](https://github.com/qasem5252/PNU_3991_AR1/)
 <br>
 ----------------
 ## روز و ساعت ارائه دروس
