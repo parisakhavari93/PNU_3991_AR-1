@@ -13,6 +13,7 @@
 - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_3991.pdf)
 ## بخش کارشناسی
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/qasem5252/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [فیلم اريه یک قسمت از فصل 9](https://github.com/qasem5252/PNU_3991_AR/blob/main/Rec%200006.mp4)
 
 -----------------
 1. G-L08 
