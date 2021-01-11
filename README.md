@@ -6,6 +6,7 @@
 - [GitHub](https://github.com/qasem5252)
 - [certificat](https://github.com/qasem5252/certificat/blob/main/qasem.jpg)
 - [patchwork](https://github.com/qasem5252/PNU_3991_AR/blob/main/Screenshot%202021-01-10%20235103.png)
+- [latex](https://github.com/qasem5252/PNU_3991_AR/blob/main/latex%20qasem%20faqri.rar)
 -----------------
 > ارزیابی ها
 ## بخش عمومی
